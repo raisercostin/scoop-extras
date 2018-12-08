@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer",
     "description": "a GUI tool for creating, updating, and deploying NuGet packages",
-    "version": "4.5.88",
+    "version": "5.0.115",
     "license": "MIT",
-    "url": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/releases/download/v4.5.88/PackageExplorer.4.5.88.zip",
-    "hash": "73e4489ade7e6d997e408856c17d8192eb1a142ce5fbd485fc1dda0a54447607",
+    "url": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/releases/download/v5.0.115/PackageExplorer.5.0.115.zip",
+    "hash": "dbc35e48e0ca392374b1a7dfb4d894edb64d953666642c92c463a38269213979",
     "checkver": {
         "github": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer"
     },

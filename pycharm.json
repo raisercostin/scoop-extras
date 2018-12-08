@@ -1,8 +1,8 @@
 {
-    "version": "2018.2.5",
+    "version": "2018.3.1",
     "homepage": "https://www.jetbrains.com/pycharm/",
-    "url": "https://download.jetbrains.com/python/pycharm-community-2018.2.5.zip",
-    "hash": "fb7f7d143b0baba430de41120ba29b4593cc33b9463803dca73f915c78a1482e",
+    "url": "https://download.jetbrains.com/python/pycharm-community-2018.3.1.zip",
+    "hash": "f827ca97899671bc2899f18ba2c63e1e37123a149670513124d1eecf24b966aa",
     "env_add_path": "bin",
     "notes": "Please restart your command line for changes to take effect.",
     "architecture": {

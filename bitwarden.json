@@ -1,7 +1,7 @@
 {
     "homepage": "https://bitwarden.com/",
     "license": "GPL-3.0-or-later",
-    "version": "1.10.0",
+    "version": "1.11.2",
     "bin": "Bitwarden.exe",
     "shortcuts": [
         [
@@ -11,12 +11,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bitwarden/desktop/releases/download/v1.10.0/bitwarden-1.10.0-x64.nsis.7z",
-            "hash": "d67a37ebaff7c2d3391e9f061dd726f3650891645c4d2eb60599a81442571644"
+            "url": "https://github.com/bitwarden/desktop/releases/download/v1.11.2/bitwarden-1.11.2-x64.nsis.7z",
+            "hash": "c09c39eee51e8fd3e1c0293692792eb72a0b02aa0ebed80945975a17be8892f1"
         },
         "32bit": {
-            "url": "https://github.com/bitwarden/desktop/releases/download/v1.10.0/bitwarden-1.10.0-ia32.nsis.7z",
-            "hash": "067a7b93a88d76c893e6acf0439dd5d9be4a1a979cc9681c08792415abc6e6ac"
+            "url": "https://github.com/bitwarden/desktop/releases/download/v1.11.2/bitwarden-1.11.2-ia32.nsis.7z",
+            "hash": "5fc9e092626b369752540d53ca732567afd1e140de025241f3a90780273f4bd4"
         }
     },
     "checkver": {

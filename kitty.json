@@ -1,18 +1,35 @@
 {
+    "##": "$schema\": \"../scoop/schema.json",
     "homepage": "http://kitty.9bis.net",
     "license": "MIT",
-    "version": "0.70.0.5",
-    "url": "https://www.fosshub.com/KiTTY.html/kitty_portable.exe",
-    "hash": "7872424693ce23fac1d47f01c0cf09ddde98435de2997e64015ae15143fe9cef",
+    "version": "0.70.0.7",
+    "url": [
+        "https://www.9bis.net/kitty/?file=genpass.exe#/genpass.exe",
+        "https://www.9bis.net/kitty/?file=kageant.exe#/kageant.exe",
+        "https://www.9bis.net/kitty/?file=kitty.exe#/kitty.exe",
+        "https://www.9bis.net/kitty/?file=klink.exe#/klink.exe",
+        "https://www.9bis.net/kitty/?file=kscp.exe#/kscp.exe",
+        "https://www.9bis.net/kitty/?file=ksftp.exe#/ksftp.exe"
+    ],
+    "hash": [
+        "13673f67164c1d0431ffdb8da93c97e64e18f0458eb7d30ebd52ee18f72ef94e",
+        "19960928c72d3d94aed10cd8044e93c2a193ffba8a3cd8bfee1311e4666e42fc",
+        "26eed164369bc52f483f9cc763796a1963123be92e4da4c4b2ed7feeec20e4fc",
+        "12ea8cbf6599ca03a1f9e09cd8a34dd6943717c4a45a51a9c558d1ce54687691",
+        "aa9eab11e473c676570461e2a2e6c0cfa4f46fa304d0a88f33e94541d0afcc47",
+        "42f5601e4fb5045aedc0d7cf27809b6ae141094bdf6439a59f3b2cadf073d3c2"
+    ],
     "bin": [
-        [
-            "kitty_portable.exe",
-            "kitty"
-        ]
+        "genpass.exe",
+        "kageant.exe",
+        "kitty.exe",
+        "klink.exe",
+        "kscp.exe",
+        "ksftp.exe"
     ],
     "shortcuts": [
         [
-            "kitty_portable.exe",
+            "kitty.exe",
             "KiTTY"
         ]
     ],
@@ -26,11 +43,12 @@
         "Sessions",
         "kitty.ini"
     ],
+    "uninstaller": {
+        "script": "& taskkill.exe /im kageant.exe /f"
+    },
     "checkver": {
         "url": "https://www.9bis.net/kitty/check_update.php?version=0.0.0.0",
         "re": "The last version is ([\\d.]+)"
     },
-    "autoupdate": {
-        "url": "https://www.fosshub.com/KiTTY.html/kitty_portable.exe"
-    }
+    "##": "@rasa will fix autoupdate soon"
 }

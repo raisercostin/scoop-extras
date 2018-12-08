@@ -1,11 +1,11 @@
 {
     "homepage": "https://zeit.co/now",
     "license": "Apache-2.0",
-    "version": "12.1.3",
+    "version": "12.1.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zeit/now-cli/releases/download/12.1.3/now-win.exe.gz",
-            "hash": "07fffc98ab94e95b43da045fef7d196ced0026e76f811a52fca0542217745bbe"
+            "url": "https://github.com/zeit/now-cli/releases/download/12.1.9/now-win.exe.gz",
+            "hash": "534bbf3b987f7929c45c5db1888084f09695ede59f3243a7bfbbd831b806e9fb"
         }
     },
     "bin": [

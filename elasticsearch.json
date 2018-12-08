@@ -1,9 +1,9 @@
 {
     "homepage": "https://www.elastic.co/products/elasticsearch",
-    "version": "6.5.0",
-    "url": "https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.5.0.zip",
-    "hash": "sha512:b04dec2161ccb9fe45d57e5e6adfd4c2235a99f294805631e8604a8ab0064cfee60575d7878ded103dbbba70166bdfb08bb7d8fd6bc2194fa2ecb860d69c4d07",
-    "extract_dir": "elasticsearch-6.5.0",
+    "version": "6.5.2",
+    "url": "https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.5.2.zip",
+    "hash": "sha512:34fed037dff1b3fdcbf05c35df93769dc34a11d29df0cfee5401a6ae8a17a9182d8e3a4c81333c7828bab66a9c675446df99fa32f3eccf990562ea860468e45e",
+    "extract_dir": "elasticsearch-6.5.2",
     "bin": [
         [
             "bin\\elasticsearch.bat",

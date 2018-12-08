@@ -1,8 +1,8 @@
 {
-    "version": "2018.2.6",
+    "version": "2018.3.1",
     "homepage": "https://www.jetbrains.com/idea/",
-    "url": "https://download.jetbrains.com/idea/ideaIU-2018.2.6.win.zip",
-    "hash": "934c0514a49e34de0f7338b3cb2219891f16005279d51f40790a0c830b536317",
+    "url": "https://download.jetbrains.com/idea/ideaIU-2018.3.1.win.zip",
+    "hash": "5990968b782a5f342325c0e8fd6276dc96c027d3b07428500731f58e582176eb",
     "bin": "bin\\idea.bat",
     "env_add_path": "bin",
     "notes": "Please restart your command line for changes to take effect.",

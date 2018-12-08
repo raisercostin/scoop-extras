@@ -1,10 +1,10 @@
 {
     "homepage": "https://www.texstudio.org",
-    "version": "2.12.10",
+    "version": "2.12.14",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/texstudio-org/texstudio/releases/download/2.12.10/texstudio-2.12.10-win-portable-qt5.zip",
-            "hash": "8db621ae2f6cb51dede724614ccfa0f0a697dec8367e99b62422642c98fdf69a"
+            "url": "https://github.com/texstudio-org/texstudio/releases/download/2.12.14/texstudio-2.12.14-win-portable-qt5.zip",
+            "hash": "57bca7749a0d52ef400489aee81ac88c535a11647f29903eb5ad1cae255c877e"
         }
     },
     "checkver": {
