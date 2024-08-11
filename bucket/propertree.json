@@ -1,12 +1,12 @@
 {
-    "version": "0.2024.08.06",
+    "version": "0.2024.08.10",
     "description": "Cross platform GUI plist editor written in python.",
     "homepage": "https://github.com/corpnewt/ProperTree",
     "license": "BSD-3-Clause",
     "depends": "python",
-    "url": "https://github.com/corpnewt/ProperTree/archive/fd6c9b04dd234445e46112b148eb2cd39da32350.zip",
-    "hash": "c99f7df68b1e4041ecaeeec3fa7bc20ae480d7c64b903c56f299916d38c132c8",
-    "extract_dir": "ProperTree-fd6c9b04dd234445e46112b148eb2cd39da32350",
+    "url": "https://github.com/corpnewt/ProperTree/archive/68c8825d4cc5860b004df3888610e3274c6cf87b.zip",
+    "hash": "d515fac357b61d88a2fb93c2daacc0d5baabbe1dcda688992ea7c374fb079c1f",
+    "extract_dir": "ProperTree-68c8825d4cc5860b004df3888610e3274c6cf87b",
     "bin": "ProperTree.bat",
     "shortcuts": [
         [
