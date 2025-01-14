@@ -1,10 +1,10 @@
 {
-    "version": "8.16-5600",
+    "version": "8.20-5640",
     "description": "Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS",
     "homepage": "https://www.hwinfo.com",
     "license": "Freeware",
-    "url": "https://www.fosshub.com/HWiNFO.html/hwi_816.zip",
-    "hash": "6590721f5c24f2cbcd5bf4019821e2e97c170d4c081706be74bc44d934f4921c",
+    "url": "https://www.fosshub.com/HWiNFO.html/hwi_820.zip",
+    "hash": "21fd868ff4e89f046becc5eb63ea20b7365c28c91902f5a6ed920eb8d2e666be",
     "pre_install": [
         "foreach ($conf in 'HWiNFO64.INI', 'HWiNFO32.INI') {",
         "    if (!(Test-Path \"$persist_dir\\$conf\")) { Set-Content \"$dir\\$conf\" '[Settings]', 'AutoUpdate=0' -Encoding ASCII }",
