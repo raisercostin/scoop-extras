@@ -1,18 +1,18 @@
 {
-    "version": "1.8.1",
+    "version": "1.9.0",
     "description": "A free, cross-platform personal finance software",
     "homepage": "https://moneymanagerex.org/",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/moneymanagerex/moneymanagerex/releases/download/v1.8.1/mmex-1.8.1-win64-portable.zip",
-            "hash": "abd0f24b1a0aac27015b79f3a922cc42bd3864a20af8486af05d50155c4a8e9a",
-            "extract_dir": "mmex-1.8.1-win64"
+            "url": "https://github.com/moneymanagerex/moneymanagerex/releases/download/v1.9.0/mmex-1.9.0-win64-portable.zip",
+            "hash": "1af684f7eb602c25e3f25ed93142665d06a91306d9562479a1efe8130096cc43",
+            "extract_dir": "mmex-1.9.0-win64"
         },
         "32bit": {
-            "url": "https://github.com/moneymanagerex/moneymanagerex/releases/download/v1.8.1/mmex-1.8.1-win32-portable.zip",
-            "hash": "144c2b617e52a2960448907b52ffb4f7c5ab04ce77732085939fdecd959a98de",
-            "extract_dir": "mmex-1.8.1-win32"
+            "url": "https://github.com/moneymanagerex/moneymanagerex/releases/download/v1.9.0/mmex-1.9.0-win32-portable.zip",
+            "hash": "eb8043ae7e9b81e45845847cfe17ca717e97fdb1b7dadde96f29da6564024e9c",
+            "extract_dir": "mmex-1.9.0-win32"
         }
     },
     "shortcuts": [
