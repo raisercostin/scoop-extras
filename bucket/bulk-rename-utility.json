@@ -1,13 +1,13 @@
 {
-    "version": "4",
+    "version": "3",
     "description": "File renaming software for Windows.",
     "homepage": "https://www.bulkrenameutility.co.uk",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.bulkrenameutility.co.uk/License.php"
     },
-    "url": "https://www.s3.tgrmn.com/bru/BRU_setup_4.exe",
-    "hash": "md5:9548a1736955e191384729a86ad24867",
+    "url": "https://www.s3.tgrmn.com/bru/BRU_setup_3.exe",
+    "hash": "md5:ec7515638f5a5c00bebc0756da29388d",
     "innosetup": true,
     "architecture": {
         "64bit": {
