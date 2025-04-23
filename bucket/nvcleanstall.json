@@ -1,10 +1,10 @@
 {
-    "version": "1.18.0",
+    "version": "1.19.0",
     "description": "Extends customization of NVIDIA GeForce Driver packages; can also decouple automatic updates from NVIDIA's servers.",
     "homepage": "https://www.techpowerup.com/nvcleanstall/",
     "license": "Freeware",
-    "url": "https://nl2-dl.techpowerup.com/files/NVCleanstall_1.18.0.exe#/NVCleanstall.exe",
-    "hash": "md5:e9719e24b261ec9e265209098b86c37f",
+    "url": "https://nl2-dl.techpowerup.com/files/NVCleanstall_1.19.0.exe#/NVCleanstall.exe",
+    "hash": "md5:b2c6e0b0e19a3e1657761b7e8c3f1716",
     "bin": "NVCleanstall.exe",
     "shortcuts": [
         [
