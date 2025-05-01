@@ -1,12 +1,12 @@
 {
-    "version": "5.6.0",
+    "version": "5.7.0",
     "description": "Cross-platform Desktop App for android messages.",
     "homepage": "https://github.com/OrangeDrangon/android-messages-desktop",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/OrangeDrangon/android-messages-desktop/releases/download/v5.6.0/Android-Messages-v5.6.0-win-x64.portable.exe#/dl.7z",
-            "hash": "sha512:5abbf9bfb4eb78bbe6ebcea1d468c8fc4a9d2c672a5c48dad3cfb406d9a8f11cb1b1343cbfa455a42cd6f5eb2fd3eaef696f497697133e5b2ac3594a2e08a37b",
+            "url": "https://github.com/OrangeDrangon/android-messages-desktop/releases/download/v5.7.0/Android-Messages-v5.7.0-win-x64.portable.exe#/dl.7z",
+            "hash": "sha512:589c05f7e301017c4f608fd347e0fe57d4e488efb3bb951ca9eabdd5b186e8fa38ef9504b1cc7bab49bd7d9272ce9fc4150ae0d8e79589eff7e72fc4cce94cd7",
             "extract_dir": "$PLUGINSDIR"
         }
     },
