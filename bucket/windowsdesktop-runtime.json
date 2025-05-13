@@ -1,21 +1,21 @@
 {
-    "version": "9.0.3",
+    "version": "9.0.5",
     "description": "Microsoft .NET 8.0 Desktop Runtime",
     "homepage": "https://dotnet.microsoft.com/download/dotnet",
     "license": "MIT",
     "notes": "You can now remove this installer with 'scoop uninstall windowsdesktop-runtime'",
     "architecture": {
         "64bit": {
-            "url": "https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/9.0.3/windowsdesktop-runtime-9.0.3-win-x64.exe",
-            "hash": "sha512:344603c607ad8a73dbfccba08f3d5400b28d831fe146541924ef02a5f838c84405837a08eba5f9b4a855ddfb94962e625b24cf51f8d3860135e305baf9114e49"
+            "url": "https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/9.0.5/windowsdesktop-runtime-9.0.5-win-x64.exe",
+            "hash": "sha512:89b536b45d2497489f3e96b1d956cb03df97fca14758fcc5b96eb260338036e3d3c8a242d98627e47219abaed65a4b2765226dc71e3753869260701a5a76171c"
         },
         "32bit": {
-            "url": "https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/9.0.3/windowsdesktop-runtime-9.0.3-win-x86.exe",
-            "hash": "sha512:b482793c9daac8888fdb53123748fe6438a8952a7d64e0820feeb580fcadbdb7c2f6efd90fe0d5fda73deb6e3e9830939538fb262362705c3e495b5b404f1750"
+            "url": "https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/9.0.5/windowsdesktop-runtime-9.0.5-win-x86.exe",
+            "hash": "sha512:a19d271cbf77504077d31af88c2532d18076ccbce1685fbc88d72efa38fafb0b0e8c93ea3c6c49a29b31214bf8c9e8ef0230f6fc819b484438d803cf684b6752"
         },
         "arm64": {
-            "url": "https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/9.0.3/windowsdesktop-runtime-9.0.3-win-arm64.exe",
-            "hash": "sha512:1c6b40cd3e00ad441306c1a2e534c1970dd00d19856ef57e7c8b09a85e187da357e5825763e6cd6446ae317de212cb2ab7c92bbdf9faf7c07a079a7394909479"
+            "url": "https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/9.0.5/windowsdesktop-runtime-9.0.5-win-arm64.exe",
+            "hash": "sha512:12ddb80b4d5eca3d7b483563bdf5946d1205faf54d635d3898c1c027db4933942cc77cd7c1f7414fb604e0a1b36925208ac943b75ebe3678c6823d110f8c67ee"
         }
     },
     "pre_install": "if (!(is_admin)) { throw 'Admin privileges are required.' }",
