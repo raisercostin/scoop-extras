@@ -1,5 +1,5 @@
 {
-    "version": "25.04.03523",
+    "version": "25.07.03033",
     "description": "A full-featured mind mapping and brainstorming tool",
     "homepage": "https://xmind.app/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://dl3.xmind.net/Xmind-for-Windows-x64bit-25.04.03523-202505300023.exe#/dl.7z",
-            "hash": "7b2d8b71cd75069d1855e95e95fcda32eabc68ee6b96fce39248a0a8a15d392d",
+            "url": "https://dl3.xmind.net/Xmind-for-Windows-x64bit-25.07.03033-202507241827.exe#/dl.7z",
+            "hash": "113f98743e8fa6508500f033001d967a4bbc821cb3e828a00fc4887e8a316d8d",
             "installer": {
                 "script": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
             }
