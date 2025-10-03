@@ -1,13 +1,13 @@
 {
-    "version": "2025.2.2-252.26199.168",
+    "version": "2025.2.3-252.26830.99",
     "description": "Cross-Platform IDE for Python by JetBrains (Community edition).",
     "homepage": "https://www.jetbrains.com/pycharm/",
     "license": {
         "identifier": "Apache-2.0",
         "url": "https://sales.jetbrains.com/hc/en-gb/articles/115001015290-Where-can-I-find-the-EULA-End-User-License-Agreement-"
     },
-    "url": "https://download.jetbrains.com/python/pycharm-community-2025.2.2.exe#/dl.7z",
-    "hash": "52fe847817c62df52769ccc1639c8116c41ddf80bff6f6f5e6f254c969221940",
+    "url": "https://download.jetbrains.com/python/pycharm-community-2025.2.3.exe#/dl.7z",
+    "hash": "c5d403b412e17f0557d84efc20398d84caad79f288a889b47ca3f0c62ae542db",
     "extract_to": "IDE",
     "installer": {
         "script": [
