@@ -1,5 +1,5 @@
 {
-    "version": "2.38.5",
+    "version": "2.39.4",
     "description": "A music streaming service that offers music with high fidelity sound quality",
     "homepage": "https://tidal.com/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://tidal.com/terms"
     },
     "url": "https://download.tidal.com/desktop/TIDALSetup.exe#/dl.7z",
-    "hash": "b874eb9d282209fd3b4a2c19cdf621b69a256fb1b044e73b2116b1c6ba01ca3d",
+    "hash": "261b059d7d92053012caa81ac7f2cd635c819ed86bab84ce98ea1f93ee9fdd1f",
     "pre_install": "Expand-7zipArchive \"$dir\\TIDAL-$version-full.nupkg\" -ExtractDir 'lib\\net45' -Removal",
     "shortcuts": [
         [
