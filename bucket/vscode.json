@@ -1,5 +1,5 @@
 {
-    "version": "1.107.0-insider",
+    "version": "1.106.3",
     "description": "Lightweight but powerful source code editor",
     "homepage": "https://code.visualstudio.com/",
     "license": {
@@ -14,12 +14,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://update.code.visualstudio.com/1.107.0-insider/win32-x64-archive/stable#/dl.7z",
-            "hash": "6670ee3ffabd6a41b3de7993f68441e7bebc9fec5848c2f8ac794c63238918ff"
+            "url": "https://update.code.visualstudio.com/1.106.3/win32-x64-archive/stable#/dl.7z",
+            "hash": "98ac21851038afb007b1bbd8d088381c443acaa14b8e0a728896a2a38f8c8a52"
         },
         "arm64": {
-            "url": "https://update.code.visualstudio.com/1.107.0-insider/win32-arm64-archive/stable#/dl.7z",
-            "hash": "aa67815cce8d2b9c7fb50e4e5775862abc4767adc674b93c7d3739a871eff07f"
+            "url": "https://update.code.visualstudio.com/1.106.3/win32-arm64-archive/stable#/dl.7z",
+            "hash": "a1c50b72698f8709c1ab6bf2e84791b8b9df18e5d173e51eac1c1ab0298f1485"
         }
     },
     "env_add_path": "bin",
