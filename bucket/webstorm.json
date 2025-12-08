@@ -1,13 +1,13 @@
 {
-    "version": "2025.2.5-252.28238.10",
+    "version": "2025.3-253.28294.332",
     "description": "Cross-Platform IDE for JavaScript by JetBrains.",
     "homepage": "https://www.jetbrains.com/webstorm/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/store/license.html"
     },
-    "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.2.5.exe#/dl.7z",
-    "hash": "8b9693311caab87eca040350310a2cbedc455d2dfc4fdb0b886ae99b521cceab",
+    "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.3.exe#/dl.7z",
+    "hash": "d6f71e6d358722075402337ec93077dd04f8f1ccb55bd9ef3321342a9b67e33b",
     "extract_to": "IDE",
     "pre_install": [
         "Get-ChildItem \"$persist_dir\\IDE\\bin\\webstorm*.exe.vmoptions\" -ErrorAction SilentlyContinue | Copy-Item -Destination \"$dir\\IDE\\bin\"",
