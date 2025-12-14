@@ -1,16 +1,16 @@
 {
-    "version": "1.32.05.00",
+    "version": "1.32.06.00",
     "description": "Music tracker",
     "homepage": "https://openmpt.org",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.05.00-portable-amd64.zip",
-            "hash": "sha1:55102c527c4dd868cb7d0efab8b276066ce333a9"
+            "url": "https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.06.00-portable-amd64.zip",
+            "hash": "sha1:3e8d2f96b321577b79fc005ad8199cd7c9152aa6"
         },
         "32bit": {
-            "url": "https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.05.00-portable-x86.zip",
-            "hash": "sha1:042ed9e44a8f10a25b8c37426115506cb0e618ad"
+            "url": "https://download.openmpt.org/archive/openmpt/1.32/OpenMPT-1.32.06.00-portable-x86.zip",
+            "hash": "sha1:7867cb61df73ccefd9a8b89b678f696685d754ec"
         }
     },
     "pre_install": "if(!(Test-Path \"$persist_dir\\mptrack.ini\")) {New-Item \"$dir\\mptrack.ini\" | Out-Null}",
