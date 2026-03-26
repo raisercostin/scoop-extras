@@ -1,13 +1,13 @@
 {
-    "version": "2025.3.4-253.32098.44",
+    "version": "2026.1-261.22158.284",
     "description": "Cross-Platform IDE for Ruby on Rails by JetBrains.",
     "homepage": "https://www.jetbrains.com/ruby/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/store/license.html"
     },
-    "url": "https://download.jetbrains.com/ruby/RubyMine-2025.3.4.exe#/dl.7z",
-    "hash": "4121d41f22344b0e6c34920f199909bcc17c4c6280fd0e215a1a0b60ce938940",
+    "url": "https://download.jetbrains.com/ruby/RubyMine-2026.1.exe#/dl.7z",
+    "hash": "a9a04fa1e9b8a9295f704a47608d3febe2f9b077e5f09ecae876aca2f579f3db",
     "extract_to": "IDE",
     "installer": {
         "script": [
