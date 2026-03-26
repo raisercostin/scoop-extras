@@ -1,13 +1,13 @@
 {
-    "version": "2025.3.5-253.31033.21",
+    "version": "2026.1-261.22158.299",
     "description": "Cross-Platform IDE for Databases & SQL by JetBrains.",
     "homepage": "https://www.jetbrains.com/datagrip/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/store/license.html"
     },
-    "url": "https://download.jetbrains.com/datagrip/datagrip-2025.3.5.exe#/dl.7z",
-    "hash": "0508212fa3d6f3e13c45b1e994b4fbe76c6f017506aa61fba672c2974194d5e0",
+    "url": "https://download.jetbrains.com/datagrip/datagrip-2026.1.exe#/dl.7z",
+    "hash": "0c173b5c8b3e6989ec471c5c8b334fb0e60df4c16503dc9f3addf19847459db6",
     "extract_to": "IDE",
     "installer": {
         "script": [
