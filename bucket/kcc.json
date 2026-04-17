@@ -1,5 +1,5 @@
 {
-    "version": "9.6.2",
+    "version": "9.7.2",
     "description": "Comic and manga converter for ebook readers.",
     "homepage": "https://github.com/ciromattia/kcc",
     "license": "ISC",
@@ -10,8 +10,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ciromattia/kcc/releases/download/v9.6.2/KCC_9.6.2.exe",
-            "hash": "6c9eec1ee91ddc5d70c5e6e8a5665da254ce6dd0dc4a177c05ae8eb34293da88"
+            "url": "https://github.com/ciromattia/kcc/releases/download/v9.7.2/KCC_9.7.2.exe",
+            "hash": "c4bca95428e128fcf754a69a9398c7ac23c611fbff6278caa57d9bfb6e1eedd3"
         }
     },
     "innosetup": true,
